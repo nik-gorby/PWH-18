@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 YaBrowser/25.4.0.0 Safari/537.36" version="27.1.1" pages="2">
   <diagram name="CDL" id="SCpngaXEFyfujAyh4T14">
-    <mxGraphModel dx="2536" dy="144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3363" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JhwAvUDN59JvzQfTvStM-1" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1910" y="1351" width="790" height="730" as="geometry" />
+          <mxGeometry x="1359" y="876" width="790" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="dv1rJ8OcQoWU4tliP2-A-208" value="Физическая модель Core Data Layer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" parent="JhwAvUDN59JvzQfTvStM-1" vertex="1">
+        <mxCell id="dv1rJ8OcQoWU4tliP2-A-208" value="Физическая модель Core Data Layer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;strokeWidth=7;strokeColor=#0066CC;" parent="JhwAvUDN59JvzQfTvStM-1" vertex="1">
           <mxGeometry width="790" height="730" as="geometry" />
         </mxCell>
         <mxCell id="dv1rJ8OcQoWU4tliP2-A-56" value="Product" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="JhwAvUDN59JvzQfTvStM-1" vertex="1">
@@ -503,9 +503,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G37A9QngWwdEytVoQQnH-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="840" y="1386" width="960" height="660" as="geometry" />
+          <mxGeometry x="105" y="911" width="960" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="gO8mmsCI90uhZHiG4LEl-30" value="Логическая модель данных Core Data Layer" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=none;verticalAlign=top;fontSize=18;strokeColor=#CCCCCC;strokeWidth=3;" parent="G37A9QngWwdEytVoQQnH-1" vertex="1">
+        <mxCell id="gO8mmsCI90uhZHiG4LEl-30" value="Логическая модель данных Core Data Layer" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=none;verticalAlign=top;fontSize=18;strokeColor=#0066CC;strokeWidth=7;" parent="G37A9QngWwdEytVoQQnH-1" vertex="1">
           <mxGeometry width="960" height="660" as="geometry" />
         </mxCell>
         <mxCell id="gO8mmsCI90uhZHiG4LEl-31" value="Заказ-Продукт" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#00CC66;" parent="G37A9QngWwdEytVoQQnH-1" vertex="1">
@@ -607,14 +607,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SmpiEKu4fZcdBhkPowVv" name="DML">
-    <mxGraphModel dx="6699" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4537" dy="-43" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YIX-Yr_eGhs0PncKfnKi-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-778" y="1468" width="730" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="YIX-Yr_eGhs0PncKfnKi-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Физическая модель Data Mart Layer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="YIX-Yr_eGhs0PncKfnKi-1">
+        <mxCell id="YIX-Yr_eGhs0PncKfnKi-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Физическая модель Data Mart Layer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=7;strokeColor=#6666FF;" vertex="1" parent="YIX-Yr_eGhs0PncKfnKi-1">
           <mxGeometry width="730" height="570" as="geometry" />
         </mxCell>
         <mxCell id="YIX-Yr_eGhs0PncKfnKi-3" value="Product_category_dim" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="YIX-Yr_eGhs0PncKfnKi-1">
@@ -1017,7 +1017,7 @@
         <mxCell id="YIX-Yr_eGhs0PncKfnKi-88" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1520" y="1386" width="560" height="735" as="geometry" />
         </mxCell>
-        <mxCell id="YIX-Yr_eGhs0PncKfnKi-89" value="Логическая модель данных Data Mart Layer" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=none;verticalAlign=top;fontSize=18;strokeColor=#CCCCCC;strokeWidth=3;" vertex="1" parent="YIX-Yr_eGhs0PncKfnKi-88">
+        <mxCell id="YIX-Yr_eGhs0PncKfnKi-89" value="Логическая модель данных Data Mart Layer" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=none;verticalAlign=top;fontSize=18;strokeColor=#6666FF;strokeWidth=7;" vertex="1" parent="YIX-Yr_eGhs0PncKfnKi-88">
           <mxGeometry width="560" height="735" as="geometry" />
         </mxCell>
         <mxCell id="YIX-Yr_eGhs0PncKfnKi-90" value="Факт выручки" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=#00CC66;" vertex="1" parent="YIX-Yr_eGhs0PncKfnKi-88">
