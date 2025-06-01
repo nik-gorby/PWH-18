@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 YaBrowser/25.4.0.0 Safari/537.36" version="27.1.1" pages="2">
   <diagram name="CDL" id="SCpngaXEFyfujAyh4T14">
-    <mxGraphModel dx="3363" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1755" dy="-142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -603,11 +603,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <UserObject label="Техническая спецификация" link="https://docs.google.com/spreadsheets/d/1PmkeMPljyQefyG078wkqFeJfxGKvjOQDZJNZohbHerk/edit?usp=sharing" linkTarget="_blank" id="HAt1-OOx40huhED6gCsE-3">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=5;fontSize=23;" vertex="1" parent="1">
+            <mxGeometry x="160" y="1590" width="540" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="SmpiEKu4fZcdBhkPowVv" name="DML">
-    <mxGraphModel dx="4537" dy="-43" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5690" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1095,6 +1100,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <UserObject label="Техническая спецификация" link="https://docs.google.com/spreadsheets/d/1PmkeMPljyQefyG078wkqFeJfxGKvjOQDZJNZohbHerk/edit?usp=sharing" linkTarget="_blank" id="5Pp7cNScxvcOkZcTz7iS-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=5;fontSize=23;" vertex="1" parent="1">
+            <mxGeometry x="-1510" y="2150" width="540" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
