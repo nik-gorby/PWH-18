@@ -603,23 +603,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="Техническая спецификация" link="https://docs.google.com/spreadsheets/d/1PmkeMPljyQefyG078wkqFeJfxGKvjOQDZJNZohbHerk/edit?usp=sharing" linkTarget="_blank" id="HAt1-OOx40huhED6gCsE-3">
+        <UserObject label="Техническая спецификация" link="https://docs.google.com/spreadsheets/d/1u_H4tV3w7XBNvifpU3XYxFWc21JCQUopbFD96ZJ7sTA/edit?usp=sharing" linkTarget="_blank" id="HAt1-OOx40huhED6gCsE-3">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=5;fontSize=23;" parent="1" vertex="1">
             <mxGeometry x="160" y="1590" width="540" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="lFzSQtFPvBrvFM4wr_Sz-1" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="lFzSQtFPvBrvFM4wr_Sz-1" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="160" y="850" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="SmpiEKu4fZcdBhkPowVv" name="DML">
-    <mxGraphModel dx="3672" dy="-381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3720" dy="-381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="Техническая спецификация" link="https://docs.google.com/spreadsheets/d/1PmkeMPljyQefyG078wkqFeJfxGKvjOQDZJNZohbHerk/edit?usp=sharing" linkTarget="_blank" id="5Pp7cNScxvcOkZcTz7iS-1">
+        <UserObject label="Техническая спецификация" link="https://docs.google.com/spreadsheets/d/1u_H4tV3w7XBNvifpU3XYxFWc21JCQUopbFD96ZJ7sTA/edit?usp=sharing" linkTarget="_blank" id="5Pp7cNScxvcOkZcTz7iS-1">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=5;fontSize=23;" parent="1" vertex="1">
             <mxGeometry x="-1520" y="1840" width="540" height="40" as="geometry" />
           </mxCell>
