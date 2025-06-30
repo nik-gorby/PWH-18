@@ -2013,7 +2013,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L4DgSNniF3GLxF1Udzlu" name="ETL">
-    <mxGraphModel dx="1181" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2201,7 +2201,7 @@
           <mxGeometry x="517.5" y="100" width="195" height="330" as="geometry" />
         </mxCell>
         <mxCell id="lgwSdVJaT8OCi7PQpXdb-33" value="&lt;b&gt;Data Mart Layer&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=none;strokeColor=#6666FF;strokeWidth=2;" vertex="1" parent="lgwSdVJaT8OCi7PQpXdb-1">
-          <mxGeometry x="791.75" y="100" width="195" height="290" as="geometry" />
+          <mxGeometry x="791.75" y="100" width="195" height="220" as="geometry" />
         </mxCell>
         <mxCell id="lgwSdVJaT8OCi7PQpXdb-38" value="&lt;b&gt;Primary Data Layer&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=none;strokeColor=#B9E0A5;strokeWidth=2;" vertex="1" parent="lgwSdVJaT8OCi7PQpXdb-1">
           <mxGeometry x="230" y="100" width="195" height="330" as="geometry" />
@@ -2237,7 +2237,7 @@
           <mxGeometry x="9.285714285714292" y="30" width="91.42857142857142" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iG-W2CfGR9EDBYRH7RPq-2" value="Пользователи" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lgwSdVJaT8OCi7PQpXdb-1">
-          <mxGeometry x="275" y="380" width="105" height="30" as="geometry" />
+          <mxGeometry x="260" y="380" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iG-W2CfGR9EDBYRH7RPq-4" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="lgwSdVJaT8OCi7PQpXdb-1" source="lgwSdVJaT8OCi7PQpXdb-12" target="iG-W2CfGR9EDBYRH7RPq-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2296,7 +2296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iG-W2CfGR9EDBYRH7RPq-7" value="Услуги" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lgwSdVJaT8OCi7PQpXdb-1">
-          <mxGeometry x="282.5" y="252.5" width="60" height="25" as="geometry" />
+          <mxGeometry x="282.5" y="221" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="iG-W2CfGR9EDBYRH7RPq-8" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="lgwSdVJaT8OCi7PQpXdb-1" source="lgwSdVJaT8OCi7PQpXdb-44" target="iG-W2CfGR9EDBYRH7RPq-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2318,27 +2318,51 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="255" y="200" />
-              <mxPoint x="255" y="265" />
+              <mxPoint x="255" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iG-W2CfGR9EDBYRH7RPq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lgwSdVJaT8OCi7PQpXdb-1" source="iG-W2CfGR9EDBYRH7RPq-12" target="iG-W2CfGR9EDBYRH7RPq-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="153" />
+              <mxPoint x="755" y="153" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iG-W2CfGR9EDBYRH7RPq-12" value="Course_field" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lgwSdVJaT8OCi7PQpXdb-1">
           <mxGeometry x="570" y="140" width="90" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="iG-W2CfGR9EDBYRH7RPq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lgwSdVJaT8OCi7PQpXdb-1" source="iG-W2CfGR9EDBYRH7RPq-13" target="iG-W2CfGR9EDBYRH7RPq-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="795" y="195" />
+              <mxPoint x="795" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iG-W2CfGR9EDBYRH7RPq-13" value="Course" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lgwSdVJaT8OCi7PQpXdb-1">
           <mxGeometry x="570" y="182" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="iG-W2CfGR9EDBYRH7RPq-16" value="Service_course" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lgwSdVJaT8OCi7PQpXdb-1">
-          <mxGeometry x="570" y="221" width="90" height="25" as="geometry" />
+          <mxGeometry x="570" y="223" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="iG-W2CfGR9EDBYRH7RPq-17" value="Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lgwSdVJaT8OCi7PQpXdb-1">
-          <mxGeometry x="570" y="262" width="90" height="25" as="geometry" />
+          <mxGeometry x="570" y="265" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iG-W2CfGR9EDBYRH7RPq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lgwSdVJaT8OCi7PQpXdb-1" source="iG-W2CfGR9EDBYRH7RPq-18" target="iG-W2CfGR9EDBYRH7RPq-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="317" />
+              <mxPoint x="755" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iG-W2CfGR9EDBYRH7RPq-18" value="Payment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lgwSdVJaT8OCi7PQpXdb-1">
-          <mxGeometry x="570" y="304" width="90" height="25" as="geometry" />
+          <mxGeometry x="570" y="307" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="iG-W2CfGR9EDBYRH7RPq-14" value="Tutor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lgwSdVJaT8OCi7PQpXdb-1">
-          <mxGeometry x="570" y="340" width="90" height="25" as="geometry" />
+          <mxGeometry x="570" y="348" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="iG-W2CfGR9EDBYRH7RPq-15" value="Students" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lgwSdVJaT8OCi7PQpXdb-1">
           <mxGeometry x="570" y="390" width="90" height="25" as="geometry" />
@@ -2358,6 +2382,18 @@
               <mxPoint x="555" y="403" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iG-W2CfGR9EDBYRH7RPq-26" value="Sales_fact" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lgwSdVJaT8OCi7PQpXdb-1">
+          <mxGeometry x="823" y="233" width="132.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iG-W2CfGR9EDBYRH7RPq-27" value="Month_dim" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lgwSdVJaT8OCi7PQpXdb-1">
+          <mxGeometry x="823" y="279" width="132.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iG-W2CfGR9EDBYRH7RPq-28" value="Course_dim" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lgwSdVJaT8OCi7PQpXdb-1">
+          <mxGeometry x="823" y="186" width="132.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iG-W2CfGR9EDBYRH7RPq-29" value="Course_field_dim" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lgwSdVJaT8OCi7PQpXdb-1">
+          <mxGeometry x="823" y="140" width="132.5" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
